@@ -8,7 +8,7 @@ Think of it like a video game quest: **three stations, one adventure.**
 
 ---
 
-stacks to use [server : laravel latest  - client: { nextj latest , tailwindcss latest , anstack/react-query latest , axios latest , framer-motion , goey-toast , zustand} - ollama : [typescript, cors, dotenv, express, ollama, pdf-parse , tesseract.js, xlsx, zod] ] note: this my personal choices not compulsory
+stacks to use [server : laravel latest  - client: { nextj latest , tailwindcss  daisyui or ui inspired by shadcn responseively and crossplatform , anstack/react-query latest , axios latest , framer-motion , goey-toast , zustand} - ollama : [typescript, cors, dotenv, express, ollama, pdf-parse , tesseract.js, xlsx, zod] ] note: this my personal choices not compulsory
 
 rules of coding:
  1- never create readme file or text file or any comment or explain or any documentation until I ask for
